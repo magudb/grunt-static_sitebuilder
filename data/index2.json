@@ -1,0 +1,7 @@
+{
+	"template":"templates/default.dust"	,
+	"output":"projects/index2.html",
+	"data":{
+		"title":"<h1>im a</h1><h2> title 2</h2>"
+	}
+}

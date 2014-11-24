@@ -1,0 +1,7 @@
+{
+	"template":"templates/default.dust"	,
+	"output":"index.html",
+	"data":{
+		"title":"im a title"
+	}
+}
